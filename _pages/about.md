@@ -18,4 +18,4 @@ Education
 <!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
 2018-2021 M.S.Computer Engineering(Artificial Intelligence), University of Tehran, Iran
 
-2012-2016 B.S. Computer Engineering(Software), University of Isfahan, Iran
+2012-2016 B.S. Computer Engineering(Software), University of Isfahan, Iran 
