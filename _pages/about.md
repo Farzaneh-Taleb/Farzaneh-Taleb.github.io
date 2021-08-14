@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-=====
 I am a master's student in Computer Science(Artificial Intelligence) at the University of Tehran. I graduated from University of Isfahan with a B.S. in Computer Engineering in 2016
 
 I am interested in the intersection of Artifical Intelligence and Neuroscience.
