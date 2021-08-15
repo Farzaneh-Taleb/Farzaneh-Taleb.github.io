@@ -11,9 +11,14 @@ I am a master's student in Computer Science(Artificial Intelligence) at the Univ
 
 I am interested in the intersection of Artifical Intelligence and Neuroscience.
 
+<!-- 
+Definition List Title
+:   Definition list division. -->
 Education
 ======
 <!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
-2018-2021 M.S.Computer Engineering(Artificial Intelligence), University of Tehran, Iran
+2018-2021 
+:   M.S.Computer Engineering(Artificial Intelligence), University of Tehran, Iran
+:   Tesis title: Circuit-level model of adaptive learning under uncertainty
 
 2012-2016 B.S. Computer Engineering(Software), University of Isfahan, Iran 
