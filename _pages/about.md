@@ -14,13 +14,13 @@ I am interested in the intersection of Artifical Intelligence and Neuroscience.
 <!-- 
 Definition List Title
 :   Definition list division. -->
-Education
-======
+## Education
+
 <!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
 2018-2021 
-:   M.S. in Computer Engineering(Artificial Intelligence), University of Tehran, Iran
-:   Tesis title: Circuit-level model of adaptive learning under uncertainty
+:   M.S. in Computer Engineering-Artificial Intelligence, University of Tehran, Iran
+:   Thesis title: Circuit-level model of adaptive learning under uncertainty
 
 2012-2016 
-:   B.S. in Computer Engineering(Software), University of Isfahan, Iran 
-:   Tesis title: : Analysis, Design and Implementation of Remote Health Monitoring System through IoT
+:   B.S. in Computer Engineering-Software, University of Isfahan, Iran 
+:   Thesis title: : Analysis, Design and Implementation of Remote Health Monitoring System through IoT
