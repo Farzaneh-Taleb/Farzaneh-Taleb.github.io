@@ -3,9 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching"
 author_profile: true
-redirect_from: 
+<!-- redirect_from: 
   - /teaching/
-  - /teaching.html
+  - /teaching.html -->
 ---
 
 <!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
