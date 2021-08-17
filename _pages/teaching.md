@@ -1,35 +1,57 @@
 ---
 permalink: /teaching/
-title: "Teaching"
-excerpt: "Teaching"
+title: "Teaching Experiences"
+excerpt: "Teaching Experiences"
 author_profile: true
 <!-- redirect_from: 
   - /teaching/
   - /teaching.html -->
 ---
 
-<!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
-2020,
+Computational Neuroscience
+:   Teaching Assistant
+:   Neuromatch Academy, S2021
+
+
+
+Introduction to Cognitive Neuroscience
+:   Teaching Assistant
+:   Instructor: Dr. ‪Abdol-Hossein Vahabie
+:    University of Tehran, 2021
+
+
 
  Data Analytics
-:   Teaching Assistant, Instructor: Dr. Mohammad Amin Sadeghi, Dr. Behnam Bahrak University of Tehran, 2020
-<!-- :   Thesis title: Circuit-level model of adaptive learning under uncertainty
+:   Teaching Assistant
+:   Instructor: Dr. Mohammad Amin Sadeghi, Dr. Behnam Bahrak
+:    University of Tehran, 2020
 
-2012-2016 
-:   B.S. in Computer Engineering-Software, University of Isfahan, Iran 
-:   Thesis title: : Analysis, Design and Implementation of Remote Health Monitoring System through IoT
 
- -->
+ Statistical Inference
+:   Teaching Assistant
+:   Instructor: Dr. Mohammad-Reza A.Dehaqani
+:    University of Tehran, 2020
 
-<!-- ---
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
+ Statistical Inference
+:   Teaching Assistant
+:   Instructor: Dr. Behnam Bahrak
+:    University of Tehran, 2010
 
-{% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+ Pattern Recognition
+:   Teaching Assistant
+:   Instructor: Dr. Babak Nadjar Araabi
+:    University of Tehran, 2019
+
+ Advanced Programming II 
+:   Head Teaching Assistant
+:   Instructor: Dr. Fatemeh Raji
+:    University of Isfahan, 2016
+
+
+
+ Advanced Programming II 
+:   Head Teaching Assistant
+:   Instructor: Dr. Ahmad Zaeri
+:    University of Isfahan, 2014-2015
+
