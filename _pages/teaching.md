@@ -10,7 +10,7 @@ author_profile: true
 
 Computational Neuroscience
 :   Teaching Assistant
-:   Neuromatch Academy, S2021
+:   Neuromatch Academy, 2021
 
 
 
