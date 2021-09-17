@@ -16,7 +16,9 @@ Definition List Title
 :   Definition list division. -->
 ## Education
 
-<!-- 2021-         Ph.D. Computer Science, KTH Royal Institute of Technology in Stockholm , Sweden -->
+2021-present         
+:   Ph.D. in Computer Science, KTH Royal Institute of Technology in Stockholm, Sweden
+
 2018-2021 
 :   M.S. in Computer Engineering-Artificial Intelligence, University of Tehran, Iran
 :   Thesis title: Circuit-level model of adaptive learning under uncertainty
