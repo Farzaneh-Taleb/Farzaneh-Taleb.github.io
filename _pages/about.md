@@ -26,3 +26,12 @@ Definition List Title
 2012-2016 
 :   B.S. in Computer Engineering-Software, University of Isfahan, Iran 
 :   Thesis title: : Analysis, Design and Implementation of Remote Health Monitoring System through IoT
+
+## Research Experiences
+
+2020-2021         
+:   Research Assistant at Brain Technology Lab, Convergent Technologies Research Center, University of Tehran, Tehran, Iran
+
+2019-2021 
+:   Cognitive Systems Lab, University of Tehran, Tehran, Iran
+
